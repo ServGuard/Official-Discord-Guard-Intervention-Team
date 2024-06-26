@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Moderating Servers"];
+const statusMessages = ["Supervising Discord Servers"];
 
 
 let currentIndex = 0;
